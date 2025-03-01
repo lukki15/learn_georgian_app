@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  fluttertoast: ^8.2.10
+  fluttertoast: ^8.2.12
   stroke_order_animator: ^3.3.0
 
 dev_dependencies:
